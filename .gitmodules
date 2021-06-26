@@ -1,0 +1,15 @@
+[submodule "Decision"]
+	path = Decision
+	url = https://github.com/chartw/Decision.git
+[submodule "Control"]
+	path = Control
+	url = https://github.com/chartw/Control.git
+[submodule "LiDAR"]
+	path = LiDAR
+	url = https://github.com/chartw/LiDAR.git
+[submodule "Vision"]
+	path = Vision
+	url = https://github.com/chartw/Vision.git
+[submodule "Localization"]
+	path = Localization
+	url = https://github.com/chartw/Localization.git
